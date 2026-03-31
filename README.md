@@ -11,4 +11,4 @@ including slides, worksheets, and practical workshops.
 This material is intended for educational use only.
 Commercial use is not allowed without permission.
 
-© 2026 [Your Name] / [University Name]
+© 2026 [Ira Piyayodilokchai]
